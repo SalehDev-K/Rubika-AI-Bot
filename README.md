@@ -38,9 +38,12 @@
 
 
 ---
-## 📷 پیش‌نمایش
+## 📷 عکس 
 
-![preview](bot-rubika-ai.png)
+
+<div align="center">
+  <img src="bot-rubika-ai.png" alt="preview" width="400"/>
+</div>
 
 ---
 
