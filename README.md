@@ -39,15 +39,7 @@
 + چرا آسمون آبیه؟
 
 
----
-## 📷 عکس 
 
-
-<div align="center">
-  <img src="bot-rubika-ai.png" alt="preview" width="400"/>
-</div>
-
----
 
 ## ⚠️ نکته مهم
 
