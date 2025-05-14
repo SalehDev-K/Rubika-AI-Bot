@@ -40,7 +40,7 @@
 ---
 ## 📷 پیش‌نمایش
 
-![preview](preview.png)
+![preview](bot-rubika-ai.png)
 
 ---
 
